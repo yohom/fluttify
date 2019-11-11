@@ -41353,12 +41353,12 @@ $S:1}
 L.pC.prototype={
 aq:function(){return new L.u0(C.o)}}
 L.u0.prototype={
-I:function(a){var u=this,t=null,s=L.NG("Organization","me.yohom",new L.Nx(u)),r=L.NG("Project Name","amap_location_fluttify",new L.Ny(u)),q=L.NG("Android SDK Url","https://a.amap.com/lbs/static/zip/AMapLocation.zip",new L.Nz(u)),p=L.NG("iOS SDK Url","https://a.amap.com/lbs/static/zip/AMap_iOS_Foundation_Lib_V1.4.3.zip,https://a.amap.com/lbs/static/zip/AMap_iOS_Loc_Lib_V2.6.3.zip",new L.NA(u)),o=N.VS(L.d_("GENERATE!",t,t,t,A.dz(t,t,C.n,t,t,t,t,t,t,t,t,t,t,t,t,t,!0,t,t,t,t,t,t),t),C.qM,u.gHW()),n=u.d,m={func:1,ret:-1}
+I:function(a){var u=this,t=null,s=L.NG("Organization","me.yohom",new L.Nx(u)),r=L.NG("Project Name","amap_location_fluttify",new L.Ny(u)),q=L.NG("Android SDK Url","https://a.amap.com/lbs/static/zip/AMapLocation.zip",new L.Nz(u)),p=L.NG("iOS SDK Url","https://a.amap.com/lbs/static/zip/AMap_iOS_Loc_Lib_V2.6.3.zip",new L.NA(u)),o=N.VS(L.d_("GENERATE!",t,t,t,A.dz(t,t,C.n,t,t,t,t,t,t,t,t,t,t,t,t,t,!0,t,t,t,t,t,t),t),C.qM,u.gHW()),n=u.d,m={func:1,ret:-1}
 return L.VA(H.d([new R.eF(2,t),new L.Q6(t),new R.eF(2,t),C.uI,s,C.iQ,r,C.iQ,q,C.iQ,p,C.uH,o,new R.eF(1,t),Z.WX(!0,!1,t,new D.jm(new N.bV(n,C.dN,C.Y),new R.ae(H.d([],[m]),[m])),t,t,2,L.Tg(t,C.h4,t,t,t,t,t,!0,t,t,t,t,t,t,t,t,t,t,!0,t,t,t,t,t,t,t,t,t,t,t,t,t,t,t,t,t,t,t,t),!0,!0,t,!1,t,t,t,t,t,!0,1,t,!1,t,t,t,t,!1,C.k8,t,t,A.dz(t,t,C.n,t,t,t,t,t,t,t,t,t,t,t,t,t,!0,t,t,t,t,t,t),C.c7,t,C.lT,t,t,t),new R.eF(1,t)],[N.af]),C.ft,new V.ab(24,24,24,24))},
 pF:function(){var u=0,t=P.a0(null),s=this,r,q,p,o
 var $async$pF=P.X(function(a,b){if(a===1)return P.Y(b,t)
 while(true)switch(u){case 0:p=$.a_2()
-o=P.bc(["outputOrg","me.yohom","outputProjectName","amap_location_fluttify","androidSDK","https://a.amap.com/lbs/static/zip/AMapLocation.zip","iosSDK","https://a.amap.com/lbs/static/zip/AMap_iOS_Foundation_Lib_V1.4.3.zip,https://a.amap.com/lbs/static/zip/AMap_iOS_Loc_Lib_V2.6.3.zip"],P.j,null)
+o=P.bc(["outputOrg","me.yohom","outputProjectName","amap_location_fluttify","androidSDK","https://a.amap.com/lbs/static/zip/AMapLocation.zip","iosSDK","https://a.amap.com/lbs/static/zip/AMap_iOS_Loc_Lib_V2.6.3.zip"],P.j,null)
 p.toString
 r=B.a0Y(null,null,null,null,null,null,null,null,null,null,null,null,null)
 r.a="GET"
