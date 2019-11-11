@@ -41379,7 +41379,7 @@ L.Nv.prototype={
 $1:function(a){var u=this.a
 u.ax(new L.Nu(u,a))}}
 L.Nu.prototype={
-$0:function(){return this.a.d="\u8bf7\u9644\u4e0a\u4ee5\u4e0b\u5b57\u7b26\u4e32\u8054\u7cfb382146139@qq.com\n"+H.c(J.bE(this.b.a))},
+$0:function(){return this.a.d="\u8bf7\u9644\u4e0a\u4ee5\u4e0b\u5b57\u7b26\u4e32\u8054\u7cfb382146139@qq.com "+H.c(J.bE(this.b.a))},
 $S:23}
 L.Nw.prototype={
 $1:function(a){var u,t,s,r,q=null,p=J.bE(a),o=$.wH()
