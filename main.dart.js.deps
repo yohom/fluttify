@@ -5,7 +5,7 @@ file:///Users/yohom/Github/Me/All/fluttify/fluttify_infra/fluttify_frontend/flut
 file:///Users/yohom/Github/Me/All/fluttify/fluttify_infra/fluttify_frontend/fluttify_flutter/lib/src/app.dart
 file:///Users/yohom/Github/Me/All/fluttify/fluttify_infra/fluttify_frontend/fluttify_flutter/lib/src/bloc/app.bloc.dart
 file:///Users/yohom/Github/Me/All/fluttify/fluttify_infra/fluttify_frontend/fluttify_flutter/lib/src/bloc/bloc.export.dart
-file:///Users/yohom/Github/Me/All/fluttify/fluttify_infra/fluttify_frontend/fluttify_flutter/lib/src/bloc/global/auth.bloc.dart
+file:///Users/yohom/Github/Me/All/fluttify/fluttify_infra/fluttify_frontend/fluttify_flutter/lib/src/bloc/local/home.bloc.dart
 file:///Users/yohom/Github/Me/All/fluttify/fluttify_infra/fluttify_frontend/fluttify_flutter/lib/src/di/injector.dart
 file:///Users/yohom/Github/Me/All/fluttify/fluttify_infra/fluttify_frontend/fluttify_flutter/lib/src/di/injector.g.dart
 file:///Users/yohom/Github/Me/All/fluttify/fluttify_infra/fluttify_frontend/fluttify_flutter/lib/src/resource/R.dart
@@ -21,6 +21,7 @@ file:///Users/yohom/Github/Me/All/fluttify/fluttify_infra/fluttify_frontend/flut
 file:///Users/yohom/Github/Me/All/fluttify/fluttify_infra/fluttify_frontend/fluttify_flutter/lib/src/ui/screen/home/home.screen.dart
 file:///Users/yohom/Github/Me/All/fluttify/fluttify_infra/fluttify_frontend/fluttify_flutter/lib/src/ui/screen/home/top_bar.widget.dart
 file:///Users/yohom/Github/Me/All/fluttify/fluttify_infra/fluttify_frontend/fluttify_flutter/lib/src/ui/screen/screen.export.dart
+file:///Users/yohom/Github/Me/All/fluttify/fluttify_infra/fluttify_frontend/fluttify_flutter/lib/src/ui/widget/form_input_field.widget.dart
 file:///Users/yohom/Github/Me/All/fluttify/fluttify_infra/fluttify_frontend/fluttify_flutter/lib/src/ui/widget/nonvisual/auto_close_keyboard.widget.dart
 file:///Users/yohom/Github/Me/All/fluttify/fluttify_infra/fluttify_frontend/fluttify_flutter/lib/src/ui/widget/visual/decorated/decorated_flex.widget.dart
 file:///Users/yohom/Github/Me/All/fluttify/fluttify_infra/fluttify_frontend/fluttify_flutter/lib/src/ui/widget/visual/decorated/decorated_text.widget.dart
@@ -207,7 +208,9 @@ file:///Users/yohom/Library/Flutter/flutter/bin/cache/flutter_web_sdk/lib/_engin
 file:///Users/yohom/Library/Flutter/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/browser_location.dart
 file:///Users/yohom/Library/Flutter/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/color_filter.dart
 file:///Users/yohom/Library/Flutter/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/compositor/canvas.dart
+file:///Users/yohom/Library/Flutter/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/compositor/canvas_kit_canvas.dart
 file:///Users/yohom/Library/Flutter/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/compositor/color_filter.dart
+file:///Users/yohom/Library/Flutter/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/compositor/embedded_views.dart
 file:///Users/yohom/Library/Flutter/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/compositor/engine_delegate.dart
 file:///Users/yohom/Library/Flutter/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/compositor/fonts.dart
 file:///Users/yohom/Library/Flutter/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/compositor/image.dart
@@ -216,6 +219,8 @@ file:///Users/yohom/Library/Flutter/flutter/bin/cache/flutter_web_sdk/lib/_engin
 file:///Users/yohom/Library/Flutter/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/compositor/layer.dart
 file:///Users/yohom/Library/Flutter/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/compositor/layer_scene_builder.dart
 file:///Users/yohom/Library/Flutter/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/compositor/layer_tree.dart
+file:///Users/yohom/Library/Flutter/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/compositor/n_way_canvas.dart
+file:///Users/yohom/Library/Flutter/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/compositor/painting.dart
 file:///Users/yohom/Library/Flutter/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/compositor/path.dart
 file:///Users/yohom/Library/Flutter/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/compositor/path_metrics.dart
 file:///Users/yohom/Library/Flutter/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/compositor/picture.dart
@@ -223,7 +228,6 @@ file:///Users/yohom/Library/Flutter/flutter/bin/cache/flutter_web_sdk/lib/_engin
 file:///Users/yohom/Library/Flutter/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/compositor/platform_message.dart
 file:///Users/yohom/Library/Flutter/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/compositor/raster_cache.dart
 file:///Users/yohom/Library/Flutter/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/compositor/rasterizer.dart
-file:///Users/yohom/Library/Flutter/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/compositor/recording_canvas.dart
 file:///Users/yohom/Library/Flutter/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/compositor/runtime_delegate.dart
 file:///Users/yohom/Library/Flutter/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/compositor/surface.dart
 file:///Users/yohom/Library/Flutter/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/compositor/text.dart
@@ -240,11 +244,11 @@ file:///Users/yohom/Library/Flutter/flutter/bin/cache/flutter_web_sdk/lib/_engin
 file:///Users/yohom/Library/Flutter/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/keyboard.dart
 file:///Users/yohom/Library/Flutter/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/onscreen_logging.dart
 file:///Users/yohom/Library/Flutter/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/path_to_svg.dart
+file:///Users/yohom/Library/Flutter/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/picture.dart
 file:///Users/yohom/Library/Flutter/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/platform_views.dart
 file:///Users/yohom/Library/Flutter/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/plugins.dart
 file:///Users/yohom/Library/Flutter/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/pointer_binding.dart
 file:///Users/yohom/Library/Flutter/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/pointer_converter.dart
-file:///Users/yohom/Library/Flutter/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/recording_canvas.dart
 file:///Users/yohom/Library/Flutter/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/render_vertices.dart
 file:///Users/yohom/Library/Flutter/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/rrect_renderer.dart
 file:///Users/yohom/Library/Flutter/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/semantics/accessibility.dart
@@ -255,6 +259,7 @@ file:///Users/yohom/Library/Flutter/flutter/bin/cache/flutter_web_sdk/lib/_engin
 file:///Users/yohom/Library/Flutter/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/semantics/live_region.dart
 file:///Users/yohom/Library/Flutter/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/semantics/scrollable.dart
 file:///Users/yohom/Library/Flutter/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/semantics/semantics.dart
+file:///Users/yohom/Library/Flutter/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/semantics/semantics_helper.dart
 file:///Users/yohom/Library/Flutter/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/semantics/tappable.dart
 file:///Users/yohom/Library/Flutter/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/semantics/text_field.dart
 file:///Users/yohom/Library/Flutter/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/services/buffers.dart
@@ -266,10 +271,14 @@ file:///Users/yohom/Library/Flutter/flutter/bin/cache/flutter_web_sdk/lib/_engin
 file:///Users/yohom/Library/Flutter/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/surface/backdrop_filter.dart
 file:///Users/yohom/Library/Flutter/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/surface/clip.dart
 file:///Users/yohom/Library/Flutter/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/surface/debug_canvas_reuse_overlay.dart
+file:///Users/yohom/Library/Flutter/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/surface/image_filter.dart
 file:///Users/yohom/Library/Flutter/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/surface/offset.dart
 file:///Users/yohom/Library/Flutter/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/surface/opacity.dart
+file:///Users/yohom/Library/Flutter/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/surface/painting.dart
+file:///Users/yohom/Library/Flutter/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/surface/path_metrics.dart
 file:///Users/yohom/Library/Flutter/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/surface/picture.dart
 file:///Users/yohom/Library/Flutter/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/surface/platform_view.dart
+file:///Users/yohom/Library/Flutter/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/surface/recording_canvas.dart
 file:///Users/yohom/Library/Flutter/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/surface/scene.dart
 file:///Users/yohom/Library/Flutter/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/surface/scene_builder.dart
 file:///Users/yohom/Library/Flutter/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/surface/surface.dart
@@ -602,6 +611,7 @@ file:///Users/yohom/Library/Flutter/flutter/packages/flutter/lib/src/rendering/p
 file:///Users/yohom/Library/Flutter/flutter/packages/flutter/lib/src/rendering/performance_overlay.dart
 file:///Users/yohom/Library/Flutter/flutter/packages/flutter/lib/src/rendering/platform_view.dart
 file:///Users/yohom/Library/Flutter/flutter/packages/flutter/lib/src/rendering/proxy_box.dart
+file:///Users/yohom/Library/Flutter/flutter/packages/flutter/lib/src/rendering/proxy_sliver.dart
 file:///Users/yohom/Library/Flutter/flutter/packages/flutter/lib/src/rendering/rotated_box.dart
 file:///Users/yohom/Library/Flutter/flutter/packages/flutter/lib/src/rendering/shifted_box.dart
 file:///Users/yohom/Library/Flutter/flutter/packages/flutter/lib/src/rendering/sliver.dart
@@ -691,6 +701,7 @@ file:///Users/yohom/Library/Flutter/flutter/packages/flutter/lib/src/widgets/ico
 file:///Users/yohom/Library/Flutter/flutter/packages/flutter/lib/src/widgets/icon_theme.dart
 file:///Users/yohom/Library/Flutter/flutter/packages/flutter/lib/src/widgets/icon_theme_data.dart
 file:///Users/yohom/Library/Flutter/flutter/packages/flutter/lib/src/widgets/image.dart
+file:///Users/yohom/Library/Flutter/flutter/packages/flutter/lib/src/widgets/image_filter.dart
 file:///Users/yohom/Library/Flutter/flutter/packages/flutter/lib/src/widgets/image_icon.dart
 file:///Users/yohom/Library/Flutter/flutter/packages/flutter/lib/src/widgets/implicit_animations.dart
 file:///Users/yohom/Library/Flutter/flutter/packages/flutter/lib/src/widgets/inherited_model.dart
