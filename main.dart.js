@@ -41791,7 +41791,7 @@ Km:function(a){var u,t=null,s=a.a
 a.c
 switch(s){case"/":u=U.fC
 return R.T3($.SK().Bo(u),new G.CX(t),u,-1)
-case"/oauth/redirect":return R.T3(t,L.dO("oauth",t,t,t,t,t),Y.j0,P.y)
+case"/#/oauth/redirect":return R.T3(t,L.dO("oauth",t,t,t,t,t),Y.j0,P.y)
 default:return R.T3(t,new V.Li(t),Y.j0,P.y)}}}
 E.kW.prototype={}
 U.fC.prototype={}
@@ -41845,7 +41845,7 @@ L.BV.prototype={
 I:function(a){var u=null
 return L.zV(H.d([new T.e9(1,C.br,new L.Ow(u),u),new T.e9(1,C.br,new B.K3(new L.BW(),!0,X.SW(a,U.fC).cm$.rh$,u,[P.ag]),u)],[N.aI]),C.bD,u)}}
 L.BW.prototype={
-$2:function(a,b){var u=P.cw(0,500)
+$2:function(a,b){var u=P.cw(0,300)
 return new G.p_(b.b?new L.Qb(null):new L.uJ(null),u,null)},
 $C:"$2",
 $R:2}
@@ -41871,7 +41871,7 @@ return L.zV(H.d([U.Tk("images/fluttify_logo_landscape.png",64,t),new R.Jx(t),C.d
 J2:function(a){T.kM("https://github.com/fluttify-project")},
 If:function(a){T.kM("https://github.com/fluttify-project/fluttify-feedback/issues/new")},
 HX:function(a){T.kM("mailto:yohombao@gmail.com?subject=Fluttify")},
-IB:function(){T.kM("https://github.com/login/oauth/authorize?client_id=7880bd7f26bd2a378bef&redirect_uri=http://localhost:65132/#/oauth/redirect")}}
+IB:function(){T.kM("https://github.com/login/oauth/authorize?client_id=7880bd7f26bd2a378bef&redirect_uri=http://fluttify.com/#/oauth/redirect")}}
 Z.Cc.prototype={
 I:function(a){var u=null,t=L.Wh(u,new F.ej(4,C.e6,C.k2),new V.ae(8,8,8,8),u,u,u,u,!0,u,u,u,u,u,C.l,!0,u,u,u,!0,u,u,u,u,u,this.e,u,u,!0,u,this.d,u,u,u,u,u,u,u,u,u),s=this.f
 return new T.eU(C.el,E.a1W(t,1,!1,s.gmE(s)),u)}}
