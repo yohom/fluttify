@@ -47862,9 +47862,9 @@ return L.a1a(H.c([B.a2t(new L.WW(p),t,$.f1().fe(u.R).c.cn$.cE$,u.kD),Z.h3(s,t,p.
 Ni:function(a){A.zv(a).bI(0)
 A.a5b(X.pz(a,u.iS).WL(),a,!1).aK(new L.WU(a),u.z).eW(new L.WV())}}
 L.WW.prototype={
-$2:function(a,b){var t=null,s="ex. example@gmail.com",r=b.b,q=this.a
-if(!G.ep(r==null?t:r.Q)){r=$.f1().fe(u.R).c.cn$.a.Q
-return Z.h3(s,t,q.f2$,"email",!1,!0,r)}else return Z.h3(s,t,q.f2$,"email",!1,!1,t)},
+$2:function(a,b){var t=null,s=b.b,r=this.a
+if(!G.ep(s==null?t:s.Q)){s=$.f1().fe(u.R).c.cn$.a.Q
+return Z.h3("ex. example@gmail.com",t,r.f2$,"email",!1,!0,s)}else return Z.h3("receive fluttify result, ex. example@gmail.com",t,r.f2$,"email",!1,!1,t)},
 $C:"$2",
 $R:2,
 $S:340}
