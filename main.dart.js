@@ -50810,7 +50810,7 @@ q=k
 if(G.f_($.f1().ft(u.T).c.cz$.a))H.t("\u8bf7\u5148\u767b\u5f55")
 p=P.b9("^[A-Za-z0-9!#$%&'+/=?^_`{|}~-]+(.[A-Za-z0-9!#$%&'+/=?^_`{|}~-]+)*@([A-Za-z0-9]+(?:-[A-Za-z0-9]+)?.)+[A-Za-z0-9]+(-[A-Za-z0-9]+)?$",!0)
 if(typeof s!="string")H.t(H.aT(s))
-if(p.b.test(s))H.t("\u8bf7\u8f93\u5165\u5408\u6cd5\u7684\u90ae\u7bb1\u5730\u5740")
+if(!p.b.test(s))H.t("\u8bf7\u8f93\u5165\u5408\u6cd5\u7684\u90ae\u7bb1\u5730\u5740")
 if(G.f_(r))H.t("\u8bf7\u8f93\u5165\u7ec4\u7ec7\u540d\u79f0")
 if(r.length>64)H.t("\u7ec4\u7ec7\u540d\u79f0\u957f\u5ea6\u4e0d\u80fd\u8d85\u8fc764\u4f4d")
 if(G.f_(q))H.t("\u8bf7\u8f93\u5165\u5de5\u7a0b\u540d\u79f0")
