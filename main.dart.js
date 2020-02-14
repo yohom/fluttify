@@ -7839,7 +7839,7 @@ t=new L.Bq(H.c([],u.tO),new L.rP(),new L.rP(),new L.rP())
 s=new U.Nu(null,t,null,new Q.Nb(),!1)
 s.eO$=r
 s.FL$=new B.LN(H.c([],u.Aa))
-r.cx="http://127.0.0.1:11020"
+r.cx="http://api.fluttify.com:11020"
 t.A(t,new L.h6())
 return $.aa9=new U.DP(s)}else return r},
 DP:function DP(a){this.a=a},
