@@ -50995,7 +50995,7 @@ I:function(a){var t=null
 return L.a4L(H.c([U.a5a("images/fluttify_logo_landscape.png",64,t),new R.EB(t),C.ev,L.re(D.N3("GITHUB",this.gQq(),A.de(t,t,C.p,t,t,t,t,t,t,t,t,16,t,t,t,t,!0,t,t,t,t,t,t))),C.ev,L.re(D.N3("FEEDBACK",this.gPD(),A.de(t,t,C.p,t,t,t,t,t,t,t,t,16,t,t,t,t,!0,t,t,t,t,t,t))),C.ev,L.re(D.N3("CONTACT",this.gPd(),A.de(t,t,C.p,t,t,t,t,t,t,t,t,16,t,t,t,t,!0,t,t,t,t,t,t))),C.ev,L.re(new E.Fy(t)),C.ev],u.p),C.bN,C.ef,new V.an(64,8,64,8))},
 Qr:function(a){T.yo("https://github.com/fluttify-project")},
 PE:function(a){T.yo("https://github.com/fluttify-project/fluttify-feedback/issues/new")},
-Pe:function(a){T.yo("mailto:yohombao@gmail.com?subject=Fluttify")}}
+Pe:function(a){T.yo("mailto:yohombao@qq.com?subject=Fluttify")}}
 A.C9.prototype={
 I:function(a){var t=null
 return M.a5W(E.a7W(L.ck("mine",t,t,t,t,t)),new T.et(C.M,t,t,L.ck("mine",t,t,t,t,t),t))}}
