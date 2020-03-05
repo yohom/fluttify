@@ -7910,7 +7910,7 @@ t=new L.Et(H.a([],u.tO),new L.tU(),new L.tU(),new L.tU())
 s=new U.SO(null,t,null,new Q.Sv(),!1)
 s.fD$=r
 s.Gs$=new B.R5(H.a([],u.Aa))
-r.cx="http://api.fluttify.com:11020"
+r.cx="https://api.fluttify.com:11020"
 t.C(t,new L.hC())
 return $.agg=new U.IU(s)}else return r},
 IU:function IU(a){this.a=a},
