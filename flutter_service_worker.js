@@ -4,7 +4,7 @@ const RESOURCES = {
   "/index.html": "05298be5bf8a616632c4901f7e432769",
 "/CNAME": "09aae38d47199e2d57dc18631ea927d3",
 "/main.dart.js.deps": "e2ba54ec7b5b150b34c71e6c6d200e66",
-"/main.dart.js": "33c2c7a2c70252e9085e0cbb89761a34",
+"/main.dart.js": "0fd5ddd59ff3ab431eaf3cbc0eda8ac4",
 "/icons/favicon-16x16.png": "2055d2e0fd38487f8afd4b63eddfbb4f",
 "/icons/favicon.ico": "26934d4c82da5639840b44df08b0d7c5",
 "/icons/apple-icon.png": "46fc5c38650688382ffe3dea0791ab79",
@@ -45,6 +45,7 @@ const RESOURCES = {
 "/.git/objects/ee/e84fb40fa51ab66f49a4d3290aece08d5680e3": "4fe760ff368cf5fe14d67e4fac94754e",
 "/.git/objects/e3/ab20f13e6d710611a836bb184003c3317bb648": "6cb3419ac83f5b6afa46d90555fe4b19",
 "/.git/objects/fe/d1670a8dedb12040d00565ad39d1afb16378d3": "5402b6b3bc7290b52b742b33ec94fc76",
+"/.git/objects/fb/36b9d9c6345f9c902d9d88dc15b5c10d7853ea": "7f644f18b8883d72145967f1802f8545",
 "/.git/objects/18/9a6eff50519a873d30b25bc126049954cd87ae": "d8a7fa08e506f3eb3aeb696f29994425",
 "/.git/objects/pack/pack-5eb2c2bdd6538711e2da58b10d04963ab3559ba1.idx": "dba9ec11da0529c8960a03cad5ad2975",
 "/.git/objects/pack/pack-5eb2c2bdd6538711e2da58b10d04963ab3559ba1.pack": "31a7ee9d1ed9c60be7344cb8da92eb2d",
@@ -59,6 +60,8 @@ const RESOURCES = {
 "/.git/objects/54/67566371667f408da2cd3ed7dcd08fa41cfe17": "6df7639aa72b0d114d996c3a4aa9732f",
 "/.git/objects/98/8c1d6d30145eac020c1333ec3229a8cea274b5": "26316c31b6794de9bacaa6360d5cf239",
 "/.git/objects/98/e8c35d651e4cd5d1f8713ff8feab4ce2adbb82": "120afc4d5560f69335c9a4a3ba4c9c28",
+"/.git/objects/53/6eab1940d2479ac0c624c074f85a1adb66956a": "4d6880eb4692ef2ab97fb1b4fe24969c",
+"/.git/objects/30/ff4968554fd8eb495b4b92b106c25003aeb838": "59a1b5b8233b31e068e137306d681128",
 "/.git/objects/5e/6339f8bd2c20e5dfb0c8b0c0de781b08e8c6b3": "d630cf1172e8e8ac66a5c095f44ba553",
 "/.git/objects/37/144ad4fa6848f40c3cdb39e2c49dce98af980f": "6dfd41cd6ff5ea4bbfc885d9ca0e8980",
 "/.git/objects/06/e4b0b664feb3ebe56c77bbea7b936af6f8c848": "1cc37b3d88b77474daae8d6c35556772",
@@ -75,19 +78,19 @@ const RESOURCES = {
 "/.git/objects/24/f563c29364dfdfce46c160ed3c086d6a2da76b": "b913d0b69c03b29544f19f30d381dd3b",
 "/.git/objects/2b/2483bb081a60d78fd3c129566b778943e37478": "2d2d3c0c02661a2b7f978080b0920e9f",
 "/.git/HEAD": "4cf2d64e44205fe628ddd534e1151b58",
-"/.git/logs/HEAD": "3b61077b68560522b695e31abc8f78a6",
-"/.git/logs/refs/heads/master": "3b61077b68560522b695e31abc8f78a6",
+"/.git/logs/HEAD": "b83d1b391cc5dd6bbc51ad2cc65d7c28",
+"/.git/logs/refs/heads/master": "b83d1b391cc5dd6bbc51ad2cc65d7c28",
 "/.git/logs/refs/remotes/origin/HEAD": "e33811f71f7fcac749b47f6bfb107519",
-"/.git/logs/refs/remotes/origin/master": "cd8464bb1b42d69d99e61dab8b552c8f",
-"/.git/refs/heads/master": "c8378ac286c70402eb90c54f3025b7be",
+"/.git/logs/refs/remotes/origin/master": "940e0d3c07a709686e486d2a19e8747a",
+"/.git/refs/heads/master": "3996fd6393a87ac9adf7337a77f93f5c",
 "/.git/refs/remotes/origin/HEAD": "73a00957034783b7b5c8294c54cd3e12",
-"/.git/refs/remotes/origin/master": "c8378ac286c70402eb90c54f3025b7be",
-"/.git/index": "64eeac4ff4f0165650262365a5aaf857",
+"/.git/refs/remotes/origin/master": "3996fd6393a87ac9adf7337a77f93f5c",
+"/.git/index": "f88895d7df576f1572132c7d2d354426",
 "/.git/packed-refs": "f9913d4c18a739dffee49ec8bf1681f2",
 "/.git/COMMIT_EDITMSG": "01eb2c11c2685e04a0e3b0556549b914",
 "/.git/FETCH_HEAD": "9d993a8d5c8172cd91a2224e25d062d0",
-"/.git/sourcetreeconfig": "6f944f1fc89ba1b73949890ab88fe525",
-"/assets/LICENSE": "24c80cdf6d5e00934efcfe09773a414f",
+"/.git/sourcetreeconfig": "91225ccfe2d6fe0eefa60754f07d14a1",
+"/assets/LICENSE": "141f8713eb71d7b56de74072addc43ba",
 "/assets/images/fluttify_all.png": "752bf28fce6bdc4dbd566aad5451f347",
 "/assets/images/fluttify_logo_landscape.png": "6ce2cd9339fb2e1126e4efbb3dbc0c9c",
 "/assets/images/fluttify_logo_medium_dark.png": "5ab9afc998d271525dc5cccea0593c92",
@@ -128,9 +131,7 @@ self.addEventListener('fetch', function (event) {
         if (response) {
           return response;
         }
-        return fetch(event.request, {
-          credentials: 'include'
-        });
+        return fetch(event.request);
       })
   );
 });
